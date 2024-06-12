@@ -1,5 +1,5 @@
 /* See LICENSE file for copyright and license details. */
-#include "themes/default.h"
+#include "themes/cicada.h"
 
 /*
  * appearance
