@@ -1,11 +1,11 @@
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
-	[SchemeNorm] = { "#bbbbbb", "#111100" },
-	[SchemeSel] = { "#eeeeee", "#960" },
-	[SchemeOut] = { "#000000", "#960" },
+	[SchemeNorm] = { "#bbbbbb", "#222222" },
+	[SchemeSel] = { "#eeeeee", "#862" },
+	[SchemeOut] = { "#000000", "#862" },
 };
-//static const unsigned int alpha = 0xf9;
-static const unsigned int alpha = 0xff;
+//static const unsigned int alpha = 0xf0;
+static const unsigned int alpha = 0xf9;
 
 static const unsigned int alphas[SchemeLast][2] = {
 	[SchemeNorm] = { OPAQUE, alpha },

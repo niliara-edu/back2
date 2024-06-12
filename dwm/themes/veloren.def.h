@@ -1,10 +1,9 @@
 static const char norm_fg[] = "#fff";
-static const char norm_bg[] = "#222";
-//static const char norm_border[] = "#860";
-static const char norm_border[] = "#444";
+static const char norm_bg[] = "#000000";
+static const char norm_border[] = "#862";
 
 static const char sel_fg[] = "#fff";
-static const char sel_bg[] = "#000";
+static const char sel_bg[] = "#652";
 //static const char sel_border[] = "#862";
 static const char sel_border[] = "#fff";
 
@@ -19,14 +18,8 @@ static const char *colors[][3]      = {
 //    [SchemeUrg] =  { urg_fg,      urg_bg,    urg_border },
 };
 
-//static const char col_gray1[]		= "#000000";
-//static const char col_gray2[]		= "#9a8484";
-//static const char col_gray3[]		= "#dcbdbd";
-//static const char col_gray4[]		= "#dcbdbd";
-//static const char col_cyan[]		= "#C16A7F";
-//
-static const char col_gray1[]		= "#000";
-static const char col_gray2[]		= "#000";
-static const char col_gray3[]		= "#000";
-static const char col_gray4[]		= "#000";
-static const char col_cyan[]		= "#000";
+static const char col_gray1[]		= "#000000";
+static const char col_gray2[]		= "#9a8484";
+static const char col_gray3[]		= "#dcbdbd";
+static const char col_gray4[]		= "#dcbdbd";
+static const char col_cyan[]		= "#C16A7F";

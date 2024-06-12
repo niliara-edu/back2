@@ -1,8 +1,8 @@
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
-	[SchemeNorm] = { "#bbbbbb", "#111100" },
-	[SchemeSel] = { "#eeeeee", "#960" },
-	[SchemeOut] = { "#000000", "#960" },
+	[SchemeNorm] = { "#bbbbbb", "#000" },
+	[SchemeSel] = { "#eeeeee", "#880" },
+	[SchemeOut] = { "#000000", "#880" },
 };
 //static const unsigned int alpha = 0xf9;
 static const unsigned int alpha = 0xff;
